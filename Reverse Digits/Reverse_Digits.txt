@@ -1,0 +1,6 @@
+Write a method called "reverse_digit" that takes an integer as an argument and returns the number with its digits reversed.
+For example, the value of reverse_digit(12345) is 54321.
+You are NOT allowed to use string methods, (ie. Reverse) in the solution.
+This solution must be arithmetic based - no converting the number to a string or array, etc.
+
+No arrays, hashes,

@@ -1,0 +1,30 @@
+Points:  10
+To turn in:
+
+    Attach a file leapyears_lastname.rb as an attachment to the assignment in Canvas
+
+
+Coding Conventions:
+
+    Same as previous assignments
+
+ To do:
+
+    Ask the user to enter a starting year and an ending year
+    Print out all the years between those 2 years (inclusive) that are considered Leap years.
+
+ A leap year is defined as a year that is divisible by 4 such as 1984 and 2004.
+
+However, years divisible by 100 are NOT leap years (such as 1800 and 1900)
+
+UNLESS they are divisible by 400 (such as 1600 and 2000).
+
+
+NOTE: Do NOT use the built-in Date object ".leap?" method
+
+Example Output:
+Enter start year: 1899
+Enter end year: 2009
+
+
+Leap Years between 1899 and 2009: 1904, 1908, 1912, 1916, 1920, 1924, 1928, 1932, 1936, 1940, 1944, 1948, 1952, 1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008

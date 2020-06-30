@@ -1,0 +1,12 @@
+Write an application in Ruby that determines the value of the coins in a jar and prints the total in dollars and cents.
+Read integer values from the user that represents the number of quarters, dimes, nickels, and pennies that are in the jar.
+Display the number of each coin and then a total in dollars and cents.
+Format output as shown below to 2 decimal places (3.5 should display as 3.50) with the dollar sign.
+
+OUTPUT EXAMPLE:
+Please Enter the number of Quarters: 4
+Please enter the number of dimes: 15
+Please enter the number of nickels: 10
+Please enter the number of pennies: 3
+
+You have 4 quarters, 15 dimes, 10 nickels and 3 pennies for a total of $3.03

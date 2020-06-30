@@ -1,0 +1,7 @@
+Points:  10
+
+Write a method called "acronym" which accepts any sequence of words separated by one or more spaces and returns the acryonym.  For example, the value returned from
+
+acronym("my  dog has fleas" )
+
+is the string "MDHF".
